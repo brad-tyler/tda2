@@ -1,3 +1,0 @@
-# tda2
-
-sistema
